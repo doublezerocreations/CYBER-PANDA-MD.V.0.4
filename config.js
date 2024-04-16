@@ -21,15 +21,15 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["+94704274987", "+94704274987"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["+94704274987", "+94704274987"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.ownertag = ["+94704274987"];
-global.OwnerName = "SACHITH";
-global.BotName = "SACHITH";
-global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
-global.author = "SACHITH";                               //Do not change.
+global.Owner = ["+94757537121", "+94765714446", "+94750393482"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["+94757537121", "+94765714446", "+94750393482"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.ownertag = ["+94757537121"];
+global.OwnerName = "̷D̷̷A̷̷S̷̷U̷̷N̷ ̷D̷̷U̷̷L̷̷A̷̷R̷̷A̷̷K̷̷A̷";
+global.BotName = "ᴅᴏᴜʙʟᴇ ᴢᴇʀᴏᴹᴰ";
+global.packname = "🦋𝕯𝖔𝖚𝖇𝖑𝖊 𝖅𝖊𝖗𝖔🦋";                             //Do not change.
+global.author = "𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝒃𝒚";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
-global.SupportGroupLink = "https://chat.whatsapp.com/GhRGdwfaMVDCoeAdzILfl";
+global.SupportGroupLink = "https://www.facebook.com/double/zero.creations";
 
 
 //
@@ -41,19 +41,19 @@ global.openAiAPI = "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";
 
 
 //
-global.location = "HambanThota, Sri Lankan";
-global.reactmoji = "💞";
+global.location = "Western, Sri Lankan";
+global.reactmoji = process.env.REACT_EMOJI"💞😉😊😂🤣❤😍😒👌😘💕😁👍🙌🤦‍♀️🤦‍♂️🤷‍♀️🤷‍♂️✌🤞😎🎶😢💖😜👏💋🌹🎉🎂🤳🐱‍👤🐱‍🏍🐱‍💻🐱‍🐉🐱‍👓🐱‍🚀✔👀😃✨😆🤔🤢🎁";
 global.themeemoji = "😂";
-global.vidmenu = { url: 'https://tenor.com/en-CA/view/anonymous-hacker-smooth-gif-10171911193797826570%9D%90%95-12-14' };
-global.websitex = "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4";
-global.lolhuman = "Sachith";
+global.vidmenu = { url: 'https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/423714807_721700460102970_5690121493739821910_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFmR9GM29XEmsNSUgLsFoUQGO-tVC54haIY761ULniFotPa22__4xrOVxqUKbThUJgdp6TI9pIEul14d710QMjx&_nc_ohc=dc1IIo6nGCgAb6qOYrV&_nc_zt=23&_nc_ht=scontent.fcmb11-1.fna&oh=00_AfCGzANyoubaOke0URydrAs3EIbG9pvqYc-lJa59NvCn3g&oe=6620B465' };
+global.websitex = "https://www.facebook.com/double/zero.creations";
+global.lolhuman = "Dasun Dularaka";
 
 
 //
-global.BotLogo = fs.readFileSync("./Assets/pic1.jpg");
-global.Thumb = fs.readFileSync("./Assets/pic9.jpg");
-global.Thumb1 = fs.readFileSync("./Assets/pic5.jpg");
-global.ErrorPic = fs.readFileSync("./Assets/pic7.jpg");
+global.BotLogo = fs.readFileSync("./Assets/Untitled design (1).png");
+global.Thumb = fs.readFileSync("./Assets/Untitled design (1).png");
+global.Thumb1 = fs.readFileSync("./Assets/Untitled design (1).png");
+global.ErrorPic = fs.readFileSync("./Assets/Untitled design (1).png");
 
 
 //
@@ -97,7 +97,7 @@ global.mess = {
 
 global.limitawal = {
   premium: "Infinity",
-  free: 2,
+  free: "Infinity",
   monayawal: 1000,
 };
 
